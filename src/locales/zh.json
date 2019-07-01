@@ -1,0 +1,95 @@
+{
+  "translation": {
+    "common": {
+      "unabledecode": "Unable to decode address(zh)",
+      "copied": "Copied(zh)",
+      "detail": "Detail(zh)",
+      "overview": "Overview(zh)",
+      "block": "Block(zh)",
+      "blockheight": "Block Height(zh)",
+      "transactions": "Transactions(zh)",
+      "transactionfee": "Transaction Fee(zh)",
+      "timestamp": "Timestamp(zh)",
+      "miner": "Miner(zh)",
+      "difficulty": "Difficulty(zh)"
+    },
+    "toast": {
+      "invalid_content": "Please input valid content(zh)"
+    },
+    "navbar": {
+      "wallet": "Wallet(zh)",
+      "docs": "Docs(zh)",
+      "search_placeholder": "Block / Transaction / Address(zh)",
+      "button_text": "TESTNET(zh)",
+      "button_extra": "Mainnet is comming(zh)"
+    },
+    "blockchaindata": {
+      "bestblock": "Best Block(zh)",
+      "bestblock_extra": "The latest block of the best chain(zh)",
+      "difficulty_extra": "Difficulty of the lastest Epoch(zh)",
+      "hashrate": "Hash Rate(zh)",
+      "hashrate_extra": "Average Hash Rate of the last 500 blocks(zh)",
+      "averageblocktime": "Average Block Time(zh)",
+      "averageblocktime_extra": "Average Block Time of the last 24 hours(zh)"
+    },
+    "home_common": {
+      "height": "Height(zh)",
+      "transactions": "Transactions(zh)",
+      "blockreward": "Block Reward (CKB)(zh)",
+      "time": "Time(zh)",
+      "more": "More(zh)"
+    },
+    "footer": {
+      "nervos_foundation": "Nervos Foundation(zh)",
+      "aboutus": "About Us(zh)",
+      "faq": "FAQ(zh)",
+
+      "developer": "Developer(zh)",
+      "api": "API(zh)",
+      "gitHub": "GitHub(zh)",
+      "whitepaper": "Whitepaper(zh)",
+
+      "community": "Community(zh)",
+      "twitter": "Twitter(zh)",
+      "blog": "Blog(zh)",
+      "telegram": "Telegram(zh)",
+      "reddit": "Reddit(zh)",
+      "youtube": "YouTube(zh)",
+      "forum": "forum(zh)"
+    },
+    "details": {
+      "address": "Address(zh)",
+      "lockhash": "Lock Hash(zh)",
+      "balance": "Balance(zh)",
+      "pendingreward": "Pending Reward(zh)",
+      "codehash": "Code Hash(zh)",
+      "args": "Args(zh)",
+      "confirmation": "Confirmation(zh)",
+      "pending_reward_tool_tip": "The block reward and transaction fee of this block will send to the miner after 11 blocks，learn more from our Consensus Protocol(zh)"
+    },
+    "transaction": {
+      "transaction": "Transaction(zh)",
+      "input": "Input(zh)",
+      "output": "Output(zh)",
+      "lockscript": "Lock Script(zh)",
+      "typescript": "Type Script(zh)",
+      "data": "Data(zh)",
+      "basereward": "Base Reward(zh)",
+      "commitreward": "Commit Reward(zh)",
+      "proposalreward": "Proposal Reward(zh)",
+      "cellbase_help_content": "The cellbase transaction of block N is send to the miner of block N-11 as reward. The reward is consist of Base Reward, Commit Reward and Proposal Reward, learn more from our Consensus Protocol(zh)"
+    },
+    "block": {
+      "proposal_transactions": "Proposal Transactions(zh)",
+      "blockreward": "Block Reward(zh)",
+      "unclecount": "Uncle Count(zh)",
+      "epoch": "Epoch(zh)",
+      "epoch_start_number": "Epoch Start Number(zh)",
+      "epochlength": "Epoch Length(zh)",
+      "nonce": "Nonce(zh)",
+      "proof": "Proof(zh)",
+      "transactionsroot": "Transactions Root(zh)",
+      "witnessesroot": "Witnesses Root(zh)"
+    }
+  }
+}
